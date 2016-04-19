@@ -1,0 +1,762 @@
+﻿04.11.2016	20:54:55	INFO	Server wurde gestartet 
+04.11.2016	20:57:23	INFO	Server wurde beendet 
+04.11.2016	20:57:28	INFO	Server wurde gestartet 
+04.11.2016	20:59:24	INFO	Server wurde gestartet 
+04.11.2016	20:59:51	INFO	ID 1	innentemperatur	69.86 
+04.11.2016	20:59:51	INFO	ID 1	aussentemperatur	28.45 
+04.11.2016	20:59:51	INFO	ID 1	heizung	68.14 
+04.11.2016	20:59:51	INFO	ID 1	luftdruck	25.53 
+04.11.2016	20:59:56	INFO	ID 1	aussentemperatur	31.79 
+04.11.2016	20:59:57	INFO	Server wurde beendet 
+04.11.2016	21:05:05	INFO	Server wurde gestartet 
+04.11.2016	21:05:40	INFO	Server wurde gestartet 
+04.11.2016	21:05:53	INFO	Server wurde beendet 
+04.11.2016	21:06:19	INFO	Server wurde gestartet 
+04.11.2016	21:06:42	INFO	Server wurde gestartet 
+04.11.2016	21:07:31	INFO	Server wurde gestartet 
+04.11.2016	21:07:49	INFO	Server wurde gestartet 
+04.11.2016	21:08:11	INFO	Server wurde gestartet 
+04.11.2016	21:08:16	INFO	Server wurde beendet 
+04.11.2016	21:08:40	INFO	Server wurde gestartet 
+04.11.2016	21:09:07	INFO	Server wurde gestartet 
+04.11.2016	21:09:09	INFO	Server wurde beendet 
+04.11.2016	21:11:16	INFO	Server wurde gestartet 
+04.11.2016	21:11:41	INFO	ID 1	innentemperatur: 41.05 
+04.11.2016	21:11:41	INFO	ID 1	aussentemperatur: 29.06 
+04.11.2016	21:11:41	INFO	ID 1	heizung: 56.2 
+04.11.2016	21:11:41	INFO	ID 1	luftdruck: 16.84 
+04.11.2016	21:12:37	INFO	Server wurde beendet 
+04.12.2016	18:02:18	INFO	Server wurde gestartet 
+04.12.2016	18:03:30	INFO	Server wurde gestartet 
+04.12.2016	18:05:02	INFO	Server wurde beendet 
+04.12.2016	18:18:49	INFO	Server wurde gestartet 
+04.12.2016	18:20:02	INFO	Server wurde beendet 
+04.12.2016	18:20:05	INFO	Server wurde gestartet 
+04.12.2016	18:21:26	INFO	Server wurde gestartet 
+04.12.2016	18:24:16	INFO	Server wurde beendet 
+04.12.2016	18:24:21	INFO	Server wurde gestartet 
+04.12.2016	18:46:33	INFO	Server wurde gestartet 
+04.12.2016	18:47:40	INFO	Server wurde beendet 
+04.12.2016	18:47:44	INFO	Server wurde gestartet 
+04.12.2016	18:53:25	INFO	Server wurde gestartet 
+04.12.2016	18:56:50	INFO	Server wurde gestartet 
+04.12.2016	19:11:28	INFO	Server wurde gestartet 
+04.12.2016	19:16:09	INFO	Server wurde gestartet 
+04.12.2016	19:16:09	INFO	Fehler: javax.websocket.DeploymentException: Address already in use: bind 
+04.12.2016	19:16:27	INFO	Server wurde gestartet 
+04.12.2016	19:25:19	INFO	Datenbankeintrag 
+04.12.2016	19:28:19	INFO	ID 1	innentemperatur: 36.5 
+04.12.2016	19:28:19	INFO	ID 1	aussentemperatur: 16.75 
+04.12.2016	19:28:19	INFO	ID 1	heizung: 44.3 
+04.12.2016	19:28:19	INFO	ID 1	luftdruck: 16.29 
+04.12.2016	19:28:24	INFO	ID 1	aussentemperatur: 15.01 
+04.12.2016	19:29:29	INFO	ID 1	innentemperatur: 22.52 
+04.12.2016	19:29:29	INFO	ID 1	aussentemperatur: 44.89 
+04.12.2016	19:29:29	INFO	ID 1	heizung: 67.71 
+04.12.2016	19:29:29	INFO	ID 1	luftdruck: 35.74 
+04.12.2016	19:30:36	INFO	ID 1	innentemperatur: 39.6 
+04.12.2016	19:30:36	INFO	ID 1	aussentemperatur: 49.08 
+04.12.2016	19:30:36	INFO	ID 1	heizung: 39.9 
+04.12.2016	19:30:36	INFO	ID 1	luftdruck: 31.74 
+04.12.2016	19:31:42	INFO	ID 1	innentemperatur: 17.23 
+04.12.2016	19:31:42	INFO	ID 1	aussentemperatur: 37.75 
+04.12.2016	19:31:42	INFO	ID 1	heizung: 31.41 
+04.12.2016	19:31:42	INFO	ID 1	luftdruck: 67.28 
+04.12.2016	19:32:49	INFO	ID 1	innentemperatur: 17.56 
+04.12.2016	19:32:49	INFO	ID 1	aussentemperatur: 24.78 
+04.12.2016	19:32:49	INFO	ID 1	heizung: 57.53 
+04.12.2016	19:32:49	INFO	ID 1	luftdruck: 52.92 
+04.12.2016	19:33:55	INFO	ID 1	innentemperatur: 22.12 
+04.12.2016	19:33:55	INFO	ID 1	aussentemperatur: 52.77 
+04.12.2016	19:33:55	INFO	ID 1	heizung: 32.67 
+04.12.2016	19:33:55	INFO	ID 1	luftdruck: 62.96 
+04.12.2016	19:35:02	INFO	ID 1	innentemperatur: 26.14 
+04.12.2016	19:35:02	INFO	ID 1	aussentemperatur: 57.74 
+04.12.2016	19:35:02	INFO	ID 1	heizung: 29.63 
+04.12.2016	19:35:02	INFO	ID 1	luftdruck: 19.71 
+04.12.2016	19:36:12	INFO	ID 1	innentemperatur: 44.27 
+04.12.2016	19:36:12	INFO	ID 1	aussentemperatur: 68.11 
+04.12.2016	19:36:12	INFO	ID 1	heizung: 16.43 
+04.12.2016	19:36:12	INFO	ID 1	luftdruck: 33.17 
+04.12.2016	19:37:22	INFO	ID 1	innentemperatur: 51.05 
+04.12.2016	19:37:22	INFO	ID 1	aussentemperatur: 55.21 
+04.12.2016	19:37:22	INFO	ID 1	heizung: 23.55 
+04.12.2016	19:37:22	INFO	ID 1	luftdruck: 68.12 
+04.12.2016	19:38:31	INFO	ID 1	innentemperatur: 22.86 
+04.12.2016	19:38:31	INFO	ID 1	aussentemperatur: 16.83 
+04.12.2016	19:38:31	INFO	ID 1	heizung: 52.73 
+04.12.2016	19:38:31	INFO	ID 1	luftdruck: 20.22 
+04.12.2016	19:39:41	INFO	ID 1	innentemperatur: 15.96 
+04.12.2016	19:39:41	INFO	ID 1	aussentemperatur: 46.76 
+04.12.2016	19:39:41	INFO	ID 1	heizung: 60.82 
+04.12.2016	19:39:41	INFO	ID 1	luftdruck: 69.94 
+04.12.2016	19:40:50	INFO	ID 1	innentemperatur: 31.95 
+04.12.2016	19:40:50	INFO	ID 1	aussentemperatur: 48.85 
+04.12.2016	19:40:50	INFO	ID 1	heizung: 56.9 
+04.12.2016	19:40:50	INFO	ID 1	luftdruck: 30.02 
+04.12.2016	19:42:00	INFO	ID 1	innentemperatur: 18.75 
+04.12.2016	19:42:00	INFO	ID 1	aussentemperatur: 20.28 
+04.12.2016	19:42:00	INFO	ID 1	heizung: 10.57 
+04.12.2016	19:42:00	INFO	ID 1	luftdruck: 60.08 
+04.12.2016	19:43:09	INFO	ID 1	innentemperatur: 22.69 
+04.12.2016	19:43:09	INFO	ID 1	aussentemperatur: 13.03 
+04.12.2016	19:43:09	INFO	ID 1	heizung: 24.59 
+04.12.2016	19:43:09	INFO	ID 1	luftdruck: 41.98 
+04.12.2016	19:44:18	INFO	ID 1	innentemperatur: 46.34 
+04.12.2016	19:44:18	INFO	ID 1	aussentemperatur: 43.98 
+04.12.2016	19:44:18	INFO	ID 1	heizung: 29.99 
+04.12.2016	19:44:18	INFO	ID 1	luftdruck: 10.01 
+04.12.2016	19:45:26	INFO	ID 1	innentemperatur: 50.76 
+04.12.2016	19:45:26	INFO	ID 1	aussentemperatur: 16.13 
+04.12.2016	19:45:26	INFO	ID 1	heizung: 19.66 
+04.12.2016	19:45:26	INFO	ID 1	luftdruck: 32.58 
+04.12.2016	19:46:36	INFO	ID 1	innentemperatur: 47.45 
+04.12.2016	19:46:36	INFO	ID 1	aussentemperatur: 67.74 
+04.12.2016	19:46:36	INFO	ID 1	heizung: 35.33 
+04.12.2016	19:46:36	INFO	ID 1	luftdruck: 59.14 
+04.12.2016	19:47:44	INFO	ID 1	innentemperatur: 33.3 
+04.12.2016	19:47:44	INFO	ID 1	aussentemperatur: 67.27 
+04.12.2016	19:47:44	INFO	ID 1	heizung: 48.32 
+04.12.2016	19:47:44	INFO	ID 1	luftdruck: 65.65 
+04.12.2016	19:48:52	INFO	ID 1	innentemperatur: 36.2 
+04.12.2016	19:48:52	INFO	ID 1	aussentemperatur: 12.13 
+04.12.2016	19:48:52	INFO	ID 1	heizung: 18.47 
+04.12.2016	19:48:52	INFO	ID 1	luftdruck: 24.6 
+04.12.2016	19:50:01	INFO	ID 1	innentemperatur: 33.21 
+04.12.2016	19:50:01	INFO	ID 1	aussentemperatur: 12.94 
+04.12.2016	19:50:01	INFO	ID 1	heizung: 52.33 
+04.12.2016	19:50:01	INFO	ID 1	luftdruck: 44.55 
+04.12.2016	19:51:11	INFO	ID 1	innentemperatur: 54.19 
+04.12.2016	19:51:11	INFO	ID 1	aussentemperatur: 28.29 
+04.12.2016	19:51:11	INFO	ID 1	heizung: 67.54 
+04.12.2016	19:51:11	INFO	ID 1	luftdruck: 27.75 
+04.12.2016	19:52:21	INFO	ID 1	innentemperatur: 20.36 
+04.12.2016	19:52:21	INFO	ID 1	aussentemperatur: 53.6 
+04.12.2016	19:52:21	INFO	ID 1	heizung: 23.62 
+04.12.2016	19:52:21	INFO	ID 1	luftdruck: 34.15 
+04.12.2016	19:53:29	INFO	ID 1	innentemperatur: 55.63 
+04.12.2016	19:53:29	INFO	ID 1	aussentemperatur: 58.39 
+04.12.2016	19:53:29	INFO	ID 1	heizung: 13.12 
+04.12.2016	19:53:29	INFO	ID 1	luftdruck: 12.36 
+04.12.2016	19:54:29	INFO	Server wurde beendet 
+04.12.2016	19:54:32	INFO	Server wurde gestartet 
+04.12.2016	19:55:05	INFO	ID 1	innentemperatur: 34.14 
+04.12.2016	19:55:05	INFO	ID 1	aussentemperatur: 42.44 
+04.12.2016	19:55:05	INFO	ID 1	heizung: 63.07 
+04.12.2016	19:55:05	INFO	ID 1	luftdruck: 12.41 
+04.12.2016	19:56:14	INFO	ID 1	innentemperatur: 33.79 
+04.12.2016	19:56:14	INFO	ID 1	aussentemperatur: 20.32 
+04.12.2016	19:56:14	INFO	ID 1	heizung: 54.33 
+04.12.2016	19:56:14	INFO	ID 1	luftdruck: 57.89 
+04.12.2016	19:57:12	INFO	Datenbankeintrag 
+04.12.2016	19:57:23	INFO	ID 1	innentemperatur: 44.03 
+04.12.2016	19:57:23	INFO	ID 1	aussentemperatur: 59.12 
+04.12.2016	19:57:23	INFO	ID 1	heizung: 46.41 
+04.12.2016	19:57:23	INFO	ID 1	luftdruck: 51.53 
+04.12.2016	19:57:56	INFO	Server wurde beendet 
+04.12.2016	20:02:02	INFO	Server wurde gestartet 
+04.12.2016	20:02:30	INFO	ID 1	innentemperatur: 45.78 
+04.12.2016	20:02:30	INFO	ID 1	aussentemperatur: 55.11 
+04.12.2016	20:02:30	INFO	ID 1	heizung: 29.71 
+04.12.2016	20:02:30	INFO	ID 1	luftdruck: 43.91 
+04.12.2016	20:03:37	INFO	ID 1	innentemperatur: 36.13 
+04.12.2016	20:03:37	INFO	ID 1	aussentemperatur: 28.16 
+04.12.2016	20:03:37	INFO	ID 1	heizung: 36.69 
+04.12.2016	20:03:37	INFO	ID 1	luftdruck: 54.15 
+04.12.2016	20:04:43	INFO	ID 1	innentemperatur: 10.84 
+04.12.2016	20:04:43	INFO	ID 1	aussentemperatur: 16.87 
+04.12.2016	20:04:43	INFO	ID 1	heizung: 36.96 
+04.12.2016	20:04:43	INFO	ID 1	luftdruck: 59.96 
+04.12.2016	20:05:51	INFO	ID 1	innentemperatur: 52.67 
+04.12.2016	20:05:51	INFO	ID 1	aussentemperatur: 59.25 
+04.12.2016	20:05:51	INFO	ID 1	heizung: 31.44 
+04.12.2016	20:05:51	INFO	ID 1	luftdruck: 37.02 
+04.12.2016	20:07:00	INFO	ID 1	innentemperatur: 49.37 
+04.12.2016	20:07:00	INFO	ID 1	aussentemperatur: 20.32 
+04.12.2016	20:07:00	INFO	ID 1	heizung: 41.8 
+04.12.2016	20:07:00	INFO	ID 1	luftdruck: 66.91 
+04.12.2016	20:08:09	INFO	ID 1	innentemperatur: 47.02 
+04.12.2016	20:08:09	INFO	ID 1	aussentemperatur: 11.43 
+04.12.2016	20:08:09	INFO	ID 1	heizung: 48.99 
+04.12.2016	20:08:09	INFO	ID 1	luftdruck: 30.59 
+04.12.2016	20:08:16	INFO	Server wurde beendet 
+04.12.2016	20:08:21	INFO	Server wurde gestartet 
+04.12.2016	20:08:49	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	20:08:53	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	20:08:56	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	20:08:59	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	20:09:03	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	20:09:06	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	20:09:09	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	20:09:13	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	20:09:16	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	20:09:27	INFO	ID 1	innentemperatur: 37.89 
+04.12.2016	20:09:30	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	20:09:37	INFO	ID 1	aussentemperatur: 28.89 
+04.12.2016	20:09:40	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	20:09:40	INFO	ID 1	heizung: 33.57 
+04.12.2016	20:09:43	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	20:09:43	INFO	ID 1	luftdruck: 50.41 
+04.12.2016	20:09:47	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	20:10:17	INFO	ID 1	innentemperatur: 44.68 
+04.12.2016	20:10:20	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	20:10:20	INFO	ID 1	aussentemperatur: 50.31 
+04.12.2016	20:10:23	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	20:10:23	INFO	ID 1	heizung: 18.8 
+04.12.2016	20:10:27	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	20:10:27	INFO	ID 1	luftdruck: 33.15 
+04.12.2016	20:10:30	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	20:11:17	INFO	ID 1	innentemperatur: 49.8 
+04.12.2016	20:11:20	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	20:11:20	INFO	ID 1	aussentemperatur: 67.69 
+04.12.2016	20:11:23	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	20:11:23	INFO	ID 1	heizung: 12.67 
+04.12.2016	20:11:27	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	20:11:27	INFO	ID 1	luftdruck: 66.89 
+04.12.2016	20:11:30	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	20:12:05	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	20:23:18	INFO	Server wurde gestartet 
+04.12.2016	20:24:47	INFO	Server wurde gestartet 
+04.12.2016	20:25:26	INFO	ID 2	blumenbeet: 19.08 
+04.12.2016	20:25:26	INFO	ID 2	wasserstand: 55.27 
+04.12.2016	20:25:26	INFO	ID 2	nicht vorhanden: 14.4 
+04.12.2016	20:26:56	INFO	ID 2	blumenbeet: 29.75 
+04.12.2016	20:26:56	INFO	ID 2	wasserstand: 12.22 
+04.12.2016	20:26:56	INFO	ID 2	nicht vorhanden: 41.82 
+04.12.2016	20:27:01	INFO	Server wurde beendet 
+04.12.2016	20:27:09	INFO	Server wurde gestartet 
+04.12.2016	20:27:38	INFO	ID 2	tomatenbeet: 24.38 
+04.12.2016	20:27:38	INFO	ID 2	blumenbeet: 16.42 
+04.12.2016	20:27:38	INFO	ID 2	wasserstand: 11.75 
+04.12.2016	20:27:38	INFO	ID 2	nicht vorhanden: 24.72 
+04.12.2016	20:29:00	INFO	ID 2	tomatenbeet: 63.45 
+04.12.2016	20:29:00	INFO	ID 2	blumenbeet: 51.46 
+04.12.2016	20:29:00	INFO	ID 2	wasserstand: 28.91 
+04.12.2016	20:29:00	INFO	ID 2	nicht vorhanden: 29.26 
+04.12.2016	20:30:23	INFO	ID 2	tomatenbeet: 34.86 
+04.12.2016	20:30:23	INFO	ID 2	blumenbeet: 39.51 
+04.12.2016	20:30:23	INFO	ID 2	wasserstand: 22.62 
+04.12.2016	20:30:23	INFO	ID 2	nicht vorhanden: 39.49 
+04.12.2016	20:30:50	INFO	Server wurde beendet 
+04.12.2016	20:30:54	INFO	Server wurde gestartet 
+04.12.2016	20:32:01	INFO	ID 2	tomatenbeet: 40.35 
+04.12.2016	20:32:19	INFO	ID 2	blumenbeet: 37.25 
+04.12.2016	20:32:59	INFO	Server wurde gestartet 
+04.12.2016	20:33:53	INFO	ID 2	tomatenbeet: 17.68 
+04.12.2016	20:34:09	INFO	ID 2	blumenbeet: 13.12 
+04.12.2016	20:34:13	INFO	ID 2	wasserstand: 52.64 
+04.12.2016	20:34:18	INFO	ID 2	nicht vorhanden: 69.56 
+04.12.2016	20:35:16	INFO	ID 2	tomatenbeet: 60.58 
+04.12.2016	20:35:29	INFO	ID 2	blumenbeet: 61.3 
+04.12.2016	20:35:31	INFO	ID 2	wasserstand: 30.47 
+04.12.2016	20:35:31	INFO	ID 2	nicht vorhanden: 16.27 
+04.12.2016	20:36:42	INFO	ID 2	tomatenbeet: 42.96 
+04.12.2016	20:37:29	INFO	Server wurde gestartet 
+04.12.2016	20:38:01	INFO	ID 2	tomatenbeet: 50.38 
+04.12.2016	20:38:01	INFO	ID 2	blumenbeet: 20.69 
+04.12.2016	20:38:01	INFO	ID 2	wasserstand: 51.38 
+04.12.2016	20:38:01	INFO	ID 2	nicht vorhanden: 12.35 
+04.12.2016	20:38:41	INFO	ID 2	blumenbeet: 69.16 
+04.12.2016	20:39:27	INFO	ID 2	tomatenbeet: 24.82 
+04.12.2016	20:39:27	INFO	ID 2	blumenbeet: 17.09 
+04.12.2016	20:39:27	INFO	ID 2	wasserstand: 13.23 
+04.12.2016	20:39:27	INFO	ID 2	nicht vorhanden: 19.96 
+04.12.2016	20:40:15	INFO	Server wurde beendet 
+04.12.2016	20:40:19	INFO	Server wurde gestartet 
+04.12.2016	20:41:50	INFO	Server wurde beendet 
+04.12.2016	20:41:52	INFO	Server wurde gestartet 
+04.12.2016	20:42:22	INFO	ID 1	innentemperatur: 53.65 
+04.12.2016	20:42:22	INFO	ID 1	aussentemperatur: 57.08 
+04.12.2016	20:42:22	INFO	ID 1	heizung: 38.78 
+04.12.2016	20:42:22	INFO	ID 1	luftdruck: 55.59 
+04.12.2016	20:44:07	INFO	Server wurde beendet 
+04.12.2016	20:44:10	INFO	Server wurde gestartet 
+04.12.2016	20:45:25	INFO	ID 1	innentemperatur: 42.3 
+04.12.2016	20:45:25	INFO	ID 1	aussentemperatur: 59.33 
+04.12.2016	20:45:25	INFO	ID 1	heizung: 36.03 
+04.12.2016	20:45:25	INFO	ID 1	luftdruck: 40.71 
+04.12.2016	20:45:48	INFO	Server wurde beendet 
+04.12.2016	20:46:10	INFO	Server wurde gestartet 
+04.12.2016	20:47:18	INFO	ID 1	innentemperatur: 26.58 
+04.12.2016	20:47:33	INFO	ID 1	aussentemperatur: 18.04 
+04.12.2016	20:47:46	INFO	ID 1	heizung: 55.58 
+04.12.2016	20:47:49	INFO	ID 1	luftdruck: 43.03 
+04.12.2016	20:49:32	INFO	Server wurde gestartet 
+04.12.2016	20:50:10	INFO	ID 1	innentemperatur: 11.07 
+04.12.2016	20:50:13	INFO	ID 1	aussentemperatur: 68.64 
+04.12.2016	20:50:17	INFO	ID 1	heizung: 61.85 
+04.12.2016	20:50:21	INFO	ID 1	luftdruck: 42.61 
+04.12.2016	20:53:08	INFO	Server wurde gestartet 
+04.12.2016	20:54:14	INFO	ID 1	innentemperatur: 30.24 
+04.12.2016	20:54:14	INFO	ID 1	aussentemperatur: 22.38 
+04.12.2016	20:54:14	INFO	ID 1	heizung: 20.85 
+04.12.2016	20:54:14	INFO	ID 1	luftdruck: 66.79 
+04.12.2016	20:55:02	INFO	ID 1	innentemperatur: 51.13 
+04.12.2016	20:55:02	INFO	ID 1	aussentemperatur: 62.22 
+04.12.2016	20:55:02	INFO	ID 1	heizung: 40.44 
+04.12.2016	20:55:02	INFO	ID 1	luftdruck: 64.54 
+04.12.2016	20:55:21	INFO	Server wurde beendet 
+04.12.2016	20:55:32	INFO	Server wurde gestartet 
+04.12.2016	20:55:59	INFO	ID 1	innentemperatur: 53.7 
+04.12.2016	20:55:59	INFO	ID 1	aussentemperatur: 36.13 
+04.12.2016	20:55:59	INFO	ID 1	heizung: 67.35 
+04.12.2016	20:55:59	INFO	ID 1	luftdruck: 60.38 
+04.12.2016	20:57:22	INFO	ID 1	innentemperatur: 41.78 
+04.12.2016	20:57:22	INFO	ID 1	aussentemperatur: 28.73 
+04.12.2016	20:57:22	INFO	ID 1	heizung: 30.84 
+04.12.2016	20:57:22	INFO	ID 1	luftdruck: 16.52 
+04.12.2016	20:57:34	INFO	Server wurde beendet 
+04.12.2016	20:57:52	INFO	Server wurde gestartet 
+04.12.2016	20:58:47	INFO	ID 1	innentemperatur: 35.28 
+04.12.2016	20:58:49	INFO	ID 1	aussentemperatur: 13.79 
+04.12.2016	20:58:53	INFO	ID 1	heizung: 21.26 
+04.12.2016	20:58:57	INFO	ID 1	luftdruck: 53.28 
+04.12.2016	21:00:26	INFO	ID 1	innentemperatur: 23.43 
+04.12.2016	21:00:27	INFO	ID 1	aussentemperatur: 38.4 
+04.12.2016	21:00:27	INFO	ID 1	heizung: 54.65 
+04.12.2016	21:00:27	INFO	ID 1	luftdruck: 63.71 
+04.12.2016	21:01:24	INFO	ID 1	innentemperatur: 52.85 
+04.12.2016	21:01:26	INFO	ID 1	aussentemperatur: 52.28 
+04.12.2016	21:01:27	INFO	ID 1	heizung: 30.38 
+04.12.2016	21:01:28	INFO	ID 1	luftdruck: 40.57 
+04.12.2016	21:02:28	INFO	Server wurde gestartet 
+04.12.2016	21:03:24	INFO	ID 1	innentemperatur: 58.0 
+04.12.2016	21:03:24	INFO	ID 1	aussentemperatur: 62.53 
+04.12.2016	21:03:24	INFO	ID 1	heizung: 12.91 
+04.12.2016	21:03:24	INFO	ID 1	luftdruck: 37.46 
+04.12.2016	21:03:35	INFO	ID 1	aussentemperatur: 20.74 
+04.12.2016	21:05:44	INFO	ID 2	tomatenbeet: 61.36 
+04.12.2016	21:05:44	INFO	ID 2	blumenbeet: 40.64 
+04.12.2016	21:05:44	INFO	ID 2	wasserstand: 15.48 
+04.12.2016	21:05:44	INFO	ID 2	nicht vorhanden: 50.92 
+04.12.2016	21:05:56	INFO	ID 2	blumenbeet: 41.64 
+04.12.2016	21:07:10	INFO	ID 2	tomatenbeet: 69.46 
+04.12.2016	21:07:10	INFO	ID 2	blumenbeet: 26.87 
+04.12.2016	21:07:10	INFO	ID 2	wasserstand: 65.05 
+04.12.2016	21:07:10	INFO	ID 2	nicht vorhanden: 30.34 
+04.12.2016	21:08:34	INFO	ID 2	tomatenbeet: 54.04 
+04.12.2016	21:08:34	INFO	ID 2	blumenbeet: 28.18 
+04.12.2016	21:08:34	INFO	ID 2	wasserstand: 28.65 
+04.12.2016	21:08:34	INFO	ID 2	nicht vorhanden: 61.35 
+04.12.2016	21:09:57	INFO	ID 2	tomatenbeet: 46.77 
+04.12.2016	21:09:57	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:09:57	INFO	ID 2	blumenbeet: 64.29 
+04.12.2016	21:09:57	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:09:57	INFO	ID 2	wasserstand: 31.42 
+04.12.2016	21:09:57	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:09:57	INFO	ID 2	nicht vorhanden: 57.3 
+04.12.2016	21:09:57	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:10:00	INFO	ID 2	blumenbeet: 19.31 
+04.12.2016	21:10:00	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:11:06	INFO	ID 2	wasserstand: 56.37 
+04.12.2016	21:11:06	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:11:10	INFO	ID 2	blumenbeet: 34.03 
+04.12.2016	21:11:10	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:11:30	INFO	ID 2	tomatenbeet: 53.47 
+04.12.2016	21:11:30	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:11:30	INFO	ID 2	blumenbeet: 62.27 
+04.12.2016	21:11:30	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:11:30	INFO	ID 2	wasserstand: 35.41 
+04.12.2016	21:11:30	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:11:30	INFO	ID 2	nicht vorhanden: 34.61 
+04.12.2016	21:11:30	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:12:01	INFO	ID 2	blumenbeet: 36.68 
+04.12.2016	21:12:01	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:12:13	INFO	ID 2	wasserstand: 37.14 
+04.12.2016	21:12:13	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:13:08	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:13:08	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:13:08	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:13:08	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:13:08	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:13:08	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:13:08	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:13:08	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:13:08	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:13:15	INFO	ID 2	tomatenbeet: 54.39 
+04.12.2016	21:13:15	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:13:15	INFO	ID 2	blumenbeet: 33.48 
+04.12.2016	21:13:15	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:13:15	INFO	ID 2	wasserstand: 63.08 
+04.12.2016	21:13:15	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:13:15	INFO	ID 2	nicht vorhanden: 37.54 
+04.12.2016	21:13:15	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:14:27	INFO	ID 2	wasserstand: 15.22 
+04.12.2016	21:14:27	INFO	Fehler: java.sql.SQLException: cannot commit transaction - SQL statements in progress 
+04.12.2016	21:15:00	INFO	ID 1	innentemperatur: 36.72 
+04.12.2016	21:15:00	INFO	ID 1	aussentemperatur: 62.62 
+04.12.2016	21:15:00	INFO	ID 1	heizung: 52.24 
+04.12.2016	21:15:00	INFO	ID 1	luftdruck: 41.91 
+04.12.2016	21:16:22	INFO	ID 1	innentemperatur: 66.85 
+04.12.2016	21:16:22	INFO	ID 1	aussentemperatur: 23.23 
+04.12.2016	21:16:22	INFO	ID 1	heizung: 43.42 
+04.12.2016	21:16:22	INFO	ID 1	luftdruck: 66.08 
+04.12.2016	21:16:28	INFO	Server wurde beendet 
+04.12.2016	21:17:52	INFO	Server wurde gestartet 
+04.12.2016	21:18:12	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:18:12	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:18:12	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:18:12	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:18:12	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:18:12	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:18:12	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:18:12	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:18:12	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:18:19	INFO	ID 1	innentemperatur: 46.05 
+04.12.2016	21:18:19	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:18:19	INFO	ID 1	aussentemperatur: 35.31 
+04.12.2016	21:18:19	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:18:19	INFO	ID 1	heizung: 50.44 
+04.12.2016	21:18:19	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:18:19	INFO	ID 1	luftdruck: 55.35 
+04.12.2016	21:18:19	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:19:22	INFO	ID 1	aussentemperatur: 40.1 
+04.12.2016	21:19:22	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:19:42	INFO	ID 1	innentemperatur: 11.85 
+04.12.2016	21:19:42	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:19:42	INFO	ID 1	aussentemperatur: 64.83 
+04.12.2016	21:19:42	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:19:42	INFO	ID 1	heizung: 67.55 
+04.12.2016	21:19:42	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:19:42	INFO	ID 1	luftdruck: 49.5 
+04.12.2016	21:19:42	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:19:57	INFO	ID 1	heizung: 52.71 
+04.12.2016	21:19:57	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:19:59	INFO	Datenbankeintrag 
+04.12.2016	21:19:59	INFO	Fehler: java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked) 
+04.12.2016	21:20:26	INFO	ID 1	aussentemperatur: 18.8 
+04.12.2016	21:20:26	INFO	Fehler: java.sql.SQLException: cannot commit transaction - SQL statements in progress 
+04.12.2016	21:20:29	INFO	Datenbankeintrag 
+04.12.2016	21:20:29	INFO	ID 1	heizung: 38.11 
+04.12.2016	21:21:11	INFO	ID 1	innentemperatur: 68.13 
+04.12.2016	21:21:11	INFO	ID 1	aussentemperatur: 55.38 
+04.12.2016	21:21:11	INFO	ID 1	heizung: 39.42 
+04.12.2016	21:21:11	INFO	ID 1	luftdruck: 52.73 
+04.12.2016	21:21:12	INFO	Datenbankeintrag 
+04.12.2016	21:21:17	INFO	Datenbankeintrag 
+04.12.2016	21:22:31	INFO	ID 1	innentemperatur: 23.21 
+04.12.2016	21:22:31	INFO	ID 1	aussentemperatur: 24.85 
+04.12.2016	21:22:31	INFO	ID 1	heizung: 64.78 
+04.12.2016	21:22:31	INFO	ID 1	luftdruck: 21.48 
+04.12.2016	21:22:35	INFO	Server wurde beendet 
+04.12.2016	21:33:37	INFO	Server wurde gestartet 
+04.12.2016	21:33:52	INFO	Datenbankeintrag 
+04.12.2016	21:33:52	INFO	Fehler: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (no such table: MESSUREVALUES) 
+04.12.2016	21:33:55	INFO	Fehler: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (no such table: MESSUREVALUES) 
+04.12.2016	21:35:04	INFO	Server wurde gestartet 
+04.12.2016	21:35:07	INFO	Datenbankeintrag 
+04.12.2016	21:35:07	INFO	Fehler: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (no such table: MESSUREVALUES) 
+04.12.2016	21:35:09	INFO	Fehler: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (no such table: MESSUREVALUES) 
+04.12.2016	21:38:10	INFO	Server wurde gestartet 
+04.12.2016	21:38:13	INFO	Datenbankeintrag 
+04.12.2016	21:38:22	INFO	Datenbankeintrag 
+04.12.2016	21:38:24	INFO	Datenbankeintrag 
+04.12.2016	21:38:25	INFO	Datenbankeintrag 
+04.12.2016	21:38:38	INFO	Server wurde beendet 
+04.14.2016	11:30:41	INFO	Server wurde gestartet 
+04.14.2016	11:30:44	INFO	Datenbankeintrag 
+04.14.2016	11:31:39	INFO	Server wurde gestartet 
+04.14.2016	11:31:42	INFO	Datenbankeintrag 
+04.14.2016	11:46:13	INFO	Server wurde beendet 
+04.14.2016	11:46:16	INFO	Server wurde gestartet 
+04.14.2016	11:46:25	INFO	Datenbankeintrag 
+04.14.2016	11:46:34	INFO	Server wurde beendet 
+04.15.2016	09:36:23	INFO	Server wurde gestartet 
+04.15.2016	09:36:26	INFO	Datenbankeintrag 
+04.15.2016	09:36:46	INFO	Server wurde gestartet 
+04.15.2016	09:38:04	INFO	Server wurde gestartet 
+04.15.2016	09:38:07	INFO	Datenbankeintrag 
+04.15.2016	09:39:40	INFO	Server wurde gestartet 
+04.15.2016	09:39:43	INFO	Datenbankeintrag 
+04.15.2016	09:40:42	INFO	Server wurde gestartet 
+04.15.2016	09:40:43	INFO	Datenbankeintrag 
+04.15.2016	09:41:39	INFO	Server wurde gestartet 
+04.15.2016	09:41:41	INFO	Datenbankeintrag 
+04.15.2016	09:41:41	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	09:41:44	INFO	Fehler: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'DATE' in 'field list' 
+04.15.2016	10:13:59	INFO	Server wurde gestartet 
+04.15.2016	10:14:24	INFO	ID 2	tomatenbeet: 20.42 
+04.15.2016	10:14:24	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:14:24	INFO	ID 2	blumenbeet: 23.87 
+04.15.2016	10:14:24	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:14:24	INFO	ID 2	wasserstand: 26.5 
+04.15.2016	10:14:24	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:14:24	INFO	ID 2	nicht vorhanden: 64.7 
+04.15.2016	10:14:24	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:15:47	INFO	ID 2	tomatenbeet: 24.13 
+04.15.2016	10:15:47	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:15:47	INFO	ID 2	blumenbeet: 15.7 
+04.15.2016	10:15:47	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:15:47	INFO	ID 2	wasserstand: 38.91 
+04.15.2016	10:15:47	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:15:47	INFO	ID 2	nicht vorhanden: 60.68 
+04.15.2016	10:15:47	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:17:13	INFO	ID 2	tomatenbeet: 60.05 
+04.15.2016	10:17:13	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:17:13	INFO	ID 2	blumenbeet: 18.33 
+04.15.2016	10:17:13	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:17:13	INFO	ID 2	wasserstand: 11.37 
+04.15.2016	10:17:13	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:17:13	INFO	ID 2	nicht vorhanden: 14.13 
+04.15.2016	10:17:13	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:18:39	INFO	ID 2	tomatenbeet: 21.0 
+04.15.2016	10:18:39	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:18:39	INFO	ID 2	blumenbeet: 22.39 
+04.15.2016	10:18:39	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:18:39	INFO	ID 2	wasserstand: 27.85 
+04.15.2016	10:18:39	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:18:39	INFO	ID 2	nicht vorhanden: 59.86 
+04.15.2016	10:18:39	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:20:05	INFO	ID 2	tomatenbeet: 66.8 
+04.15.2016	10:20:05	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:20:05	INFO	ID 2	blumenbeet: 26.72 
+04.15.2016	10:20:05	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:20:05	INFO	ID 2	wasserstand: 28.32 
+04.15.2016	10:20:05	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:20:05	INFO	ID 2	nicht vorhanden: 60.15 
+04.15.2016	10:20:05	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:21:30	INFO	ID 2	tomatenbeet: 27.34 
+04.15.2016	10:21:30	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:21:30	INFO	ID 2	blumenbeet: 56.41 
+04.15.2016	10:21:30	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:21:30	INFO	ID 2	wasserstand: 69.37 
+04.15.2016	10:21:30	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:21:30	INFO	ID 2	nicht vorhanden: 22.9 
+04.15.2016	10:21:30	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:22:57	INFO	ID 2	tomatenbeet: 51.65 
+04.15.2016	10:22:57	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:22:57	INFO	ID 2	blumenbeet: 65.54 
+04.15.2016	10:22:57	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:22:57	INFO	ID 2	wasserstand: 19.83 
+04.15.2016	10:22:57	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:22:57	INFO	ID 2	nicht vorhanden: 68.36 
+04.15.2016	10:22:57	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:24:22	INFO	ID 2	tomatenbeet: 40.97 
+04.15.2016	10:24:22	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:24:22	INFO	ID 2	blumenbeet: 61.94 
+04.15.2016	10:24:22	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:24:22	INFO	ID 2	wasserstand: 45.53 
+04.15.2016	10:24:22	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:24:22	INFO	ID 2	nicht vorhanden: 45.88 
+04.15.2016	10:24:22	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:25:48	INFO	ID 2	tomatenbeet: 55.58 
+04.15.2016	10:25:48	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:25:48	INFO	ID 2	blumenbeet: 57.06 
+04.15.2016	10:25:48	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:25:48	INFO	ID 2	wasserstand: 21.83 
+04.15.2016	10:25:48	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:25:48	INFO	ID 2	nicht vorhanden: 25.47 
+04.15.2016	10:25:48	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:27:14	INFO	ID 2	tomatenbeet: 24.04 
+04.15.2016	10:27:14	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:27:14	INFO	ID 2	blumenbeet: 20.13 
+04.15.2016	10:27:14	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:27:14	INFO	ID 2	wasserstand: 22.7 
+04.15.2016	10:27:14	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:27:14	INFO	ID 2	nicht vorhanden: 36.74 
+04.15.2016	10:27:14	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:28:39	INFO	ID 2	tomatenbeet: 35.26 
+04.15.2016	10:28:39	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:28:39	INFO	ID 2	blumenbeet: 66.76 
+04.15.2016	10:28:39	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:28:39	INFO	ID 2	wasserstand: 27.19 
+04.15.2016	10:28:39	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:28:39	INFO	ID 2	nicht vorhanden: 47.68 
+04.15.2016	10:28:39	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:30:05	INFO	ID 2	tomatenbeet: 41.96 
+04.15.2016	10:30:05	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:30:05	INFO	ID 2	blumenbeet: 59.09 
+04.15.2016	10:30:05	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:30:05	INFO	ID 2	wasserstand: 16.35 
+04.15.2016	10:30:05	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:30:05	INFO	ID 2	nicht vorhanden: 45.21 
+04.15.2016	10:30:05	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:31:31	INFO	ID 2	tomatenbeet: 26.8 
+04.15.2016	10:31:31	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:31:31	INFO	ID 2	blumenbeet: 26.89 
+04.15.2016	10:31:31	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:31:31	INFO	ID 2	wasserstand: 10.97 
+04.15.2016	10:31:31	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:31:31	INFO	ID 2	nicht vorhanden: 46.55 
+04.15.2016	10:31:31	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:32:56	INFO	ID 2	tomatenbeet: 22.5 
+04.15.2016	10:32:56	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:32:56	INFO	ID 2	blumenbeet: 44.01 
+04.15.2016	10:32:56	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:32:56	INFO	ID 2	wasserstand: 13.33 
+04.15.2016	10:32:56	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:32:56	INFO	ID 2	nicht vorhanden: 44.27 
+04.15.2016	10:32:56	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:34:22	INFO	ID 2	tomatenbeet: 53.69 
+04.15.2016	10:34:22	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:34:22	INFO	ID 2	blumenbeet: 58.91 
+04.15.2016	10:34:22	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:34:22	INFO	ID 2	wasserstand: 53.14 
+04.15.2016	10:34:22	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:34:22	INFO	ID 2	nicht vorhanden: 48.55 
+04.15.2016	10:34:22	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:35:48	INFO	ID 2	tomatenbeet: 40.6 
+04.15.2016	10:35:48	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:35:48	INFO	ID 2	blumenbeet: 52.82 
+04.15.2016	10:35:48	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:35:48	INFO	ID 2	wasserstand: 66.32 
+04.15.2016	10:35:48	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:35:48	INFO	ID 2	nicht vorhanden: 21.2 
+04.15.2016	10:35:48	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:37:13	INFO	ID 2	tomatenbeet: 62.92 
+04.15.2016	10:37:13	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:37:13	INFO	ID 2	blumenbeet: 22.36 
+04.15.2016	10:37:13	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:37:13	INFO	ID 2	wasserstand: 65.75 
+04.15.2016	10:37:13	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:37:13	INFO	ID 2	nicht vorhanden: 17.2 
+04.15.2016	10:37:13	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:38:39	INFO	ID 2	tomatenbeet: 48.72 
+04.15.2016	10:38:39	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:38:39	INFO	ID 2	blumenbeet: 42.56 
+04.15.2016	10:38:39	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:38:39	INFO	ID 2	wasserstand: 38.3 
+04.15.2016	10:38:39	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:38:39	INFO	ID 2	nicht vorhanden: 64.78 
+04.15.2016	10:38:39	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:40:04	INFO	ID 2	tomatenbeet: 44.36 
+04.15.2016	10:40:04	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:40:04	INFO	ID 2	blumenbeet: 25.83 
+04.15.2016	10:40:04	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:40:04	INFO	ID 2	wasserstand: 38.04 
+04.15.2016	10:40:04	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:40:04	INFO	ID 2	nicht vorhanden: 25.48 
+04.15.2016	10:40:04	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:41:19	INFO	ID 2	blumenbeet: 65.76 
+04.15.2016	10:41:19	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:41:23	INFO	ID 2	wasserstand: 35.03 
+04.15.2016	10:41:23	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:41:24	INFO	Datenbankeintrag 
+04.15.2016	10:41:24	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	10:41:33	INFO	Fehler: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'DATE' in 'field list' 
+04.15.2016	13:59:23	INFO	Server wurde gestartet 
+04.15.2016	13:59:51	INFO	ID 2	tomatenbeet: 57.16 
+04.15.2016	13:59:51	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	13:59:51	INFO	ID 2	blumenbeet: 64.45 
+04.15.2016	13:59:51	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	13:59:51	INFO	ID 2	wasserstand: 51.78 
+04.15.2016	13:59:51	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	13:59:51	INFO	ID 2	nicht vorhanden: 14.37 
+04.15.2016	13:59:51	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	13:59:55	INFO	Datenbankeintrag 
+04.15.2016	13:59:55	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '15.04.2016' for column 'mdate' at row 1 
+04.15.2016	14:00:01	INFO	Fehler: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'DATE' in 'field list' 
+04.15.2016	14:17:54	INFO	Server wurde gestartet 
+04.15.2016	14:17:56	INFO	Datenbankeintrag 
+04.15.2016	14:18:19	INFO	Fehler: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'DATE' in 'field list' 
+04.15.2016	14:20:53	INFO	Server wurde gestartet 
+04.15.2016	14:20:56	INFO	Datenbankeintrag 
+04.15.2016	14:20:57	INFO	Fehler: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'DATE' in 'field list' 
+04.15.2016	15:18:43	INFO	Server wurde gestartet 
+04.15.2016	15:19:13	INFO	ID 2	tomatenbeet: 69.77 
+04.15.2016	15:19:13	INFO	ID 2	blumenbeet: 31.58 
+04.15.2016	15:19:13	INFO	ID 2	wasserstand: 57.09 
+04.15.2016	15:19:13	INFO	ID 2	nicht vorhanden: 55.64 
+04.15.2016	15:19:57	INFO	Datenbankeintrag 
+04.15.2016	15:20:36	INFO	ID 2	tomatenbeet: 16.49 
+04.15.2016	15:20:36	INFO	ID 2	blumenbeet: 36.23 
+04.15.2016	15:20:36	INFO	ID 2	wasserstand: 48.33 
+04.15.2016	15:20:36	INFO	ID 2	nicht vorhanden: 14.33 
+04.15.2016	15:21:25	INFO	Server wurde gestartet 
+04.15.2016	15:21:25	INFO	Fehler: javax.websocket.DeploymentException: Address already in use: bind 
+04.15.2016	15:21:39	INFO	Server wurde gestartet 
+04.15.2016	15:21:41	INFO	Datenbankeintrag 
+04.16.2016	16:20:06	INFO	Server wurde gestartet 
+04.16.2016	16:23:53	INFO	Server wurde gestartet 
+04.16.2016	16:25:28	INFO	Server wurde gestartet 
+04.16.2016	16:26:57	INFO	Server wurde gestartet 
+04.16.2016	16:27:42	INFO	Datenbankeintrag 
+04.16.2016	16:27:42	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '04:27:42' for column 'mtime' at row 1 
+04.16.2016	16:29:30	INFO	ID 2	tomatenbeet: 25.93 
+04.16.2016	16:29:30	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '04:29:30' for column 'mtime' at row 1 
+04.16.2016	16:29:38	INFO	ID 2	blumenbeet: 49.52 
+04.16.2016	16:29:38	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '04:29:38' for column 'mtime' at row 1 
+04.16.2016	16:29:46	INFO	ID 2	wasserstand: 25.99 
+04.16.2016	16:29:46	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '04:29:46' for column 'mtime' at row 1 
+04.16.2016	16:29:50	INFO	ID 2	nicht vorhanden: 35.26 
+04.16.2016	16:29:50	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '04:29:50' for column 'mtime' at row 1 
+04.17.2016	12:03:08	INFO	Server wurde gestartet 
+04.17.2016	12:03:15	INFO	Server wurde gestartet 
+04.17.2016	12:03:57	INFO	Server wurde gestartet 
+04.17.2016	12:04:59	INFO	Server wurde gestartet 
+04.17.2016	12:05:25	INFO	ID 1	innentemperatur: 10.4 
+04.17.2016	12:05:25	INFO	ID 1	aussentemperatur: 37.57 
+04.17.2016	12:05:25	INFO	ID 1	heizung: 24.15 
+04.17.2016	12:05:25	INFO	ID 1	luftdruck: 35.4 
+04.17.2016	12:09:30	INFO	Server wurde gestartet 
+04.17.2016	12:15:36	INFO	ID 1	innentemperatur: 16.26 
+04.17.2016	12:15:36	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '12:15:36' for column 'mtime' at row 1 
+04.17.2016	12:15:36	INFO	ID 1	aussentemperatur: 54.14 
+04.17.2016	12:15:36	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '12:15:36' for column 'mtime' at row 1 
+04.17.2016	12:15:36	INFO	ID 1	heizung: 60.88 
+04.17.2016	12:15:36	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '12:15:36' for column 'mtime' at row 1 
+04.17.2016	12:15:36	INFO	ID 1	luftdruck: 59.74 
+04.17.2016	12:15:36	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '12:15:36' for column 'mtime' at row 1 
+04.17.2016	12:16:56	INFO	Server wurde gestartet 
+04.17.2016	12:22:27	INFO	Server wurde gestartet 
+04.17.2016	12:23:17	INFO	ID 1	innentemperatur: 57.27 
+04.17.2016	12:23:17	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '12:23:17' for column 'mtime' at row 1 
+04.17.2016	12:23:17	INFO	ID 1	aussentemperatur: 34.6 
+04.17.2016	12:23:17	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '12:23:17' for column 'mtime' at row 1 
+04.17.2016	12:23:17	INFO	ID 1	heizung: 57.57 
+04.17.2016	12:23:17	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '12:23:17' for column 'mtime' at row 1 
+04.17.2016	12:23:17	INFO	ID 1	luftdruck: 30.1 
+04.17.2016	12:23:17	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '12:23:17' for column 'mtime' at row 1 
+04.17.2016	12:23:33	INFO	Server wurde gestartet 
+04.17.2016	12:24:05	INFO	ID 1	innentemperatur: 23.41 
+04.17.2016	12:24:05	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '12:24:05' for column 'mtime' at row 1 
+04.17.2016	12:24:05	INFO	ID 1	aussentemperatur: 10.17 
+04.17.2016	12:24:05	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '12:24:05' for column 'mtime' at row 1 
+04.17.2016	12:24:05	INFO	ID 1	heizung: 12.0 
+04.17.2016	12:24:05	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '12:24:05' for column 'mtime' at row 1 
+04.17.2016	12:24:05	INFO	ID 1	luftdruck: 12.73 
+04.17.2016	12:24:05	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '12:24:05' for column 'mtime' at row 1 
+04.17.2016	12:24:52	INFO	Server wurde gestartet 
+04.17.2016	12:25:47	INFO	ID 1	innentemperatur: 65.73 
+04.17.2016	12:25:47	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '12:25:47' for column 'mtime' at row 1 
+04.17.2016	12:25:47	INFO	ID 1	aussentemperatur: 24.14 
+04.17.2016	12:25:47	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '12:25:47' for column 'mtime' at row 1 
+04.17.2016	12:25:47	INFO	ID 1	heizung: 54.69 
+04.17.2016	12:25:47	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '12:25:47' for column 'mtime' at row 1 
+04.17.2016	12:25:47	INFO	ID 1	luftdruck: 43.77 
+04.17.2016	12:25:47	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '12:25:47' for column 'mtime' at row 1 
+04.17.2016	12:27:05	INFO	ID 1	innentemperatur: 57.49 
+04.17.2016	12:27:05	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '12:27:05' for column 'mtime' at row 1 
+04.17.2016	12:27:05	INFO	ID 1	aussentemperatur: 17.31 
+04.17.2016	12:27:05	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '12:27:05' for column 'mtime' at row 1 
+04.17.2016	12:27:05	INFO	ID 1	heizung: 42.69 
+04.17.2016	12:27:05	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '12:27:05' for column 'mtime' at row 1 
+04.17.2016	12:27:05	INFO	ID 1	luftdruck: 32.44 
+04.17.2016	12:27:05	INFO	Fehler: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect date value: '12:27:05' for column 'mtime' at row 1 
+04.17.2016	18:43:17	INFO	Server wurde gestartet 
+04.17.2016	18:43:25	INFO	Server wurde beendet 
+04.17.2016	19:16:23	INFO	Server wurde gestartet 
+04.17.2016	19:17:09	INFO	Server wurde beendet 
+04.17.2016	19:19:04	INFO	Server wurde gestartet 
+04.17.2016	19:19:43	INFO	Datenbankeintrag 
+04.17.2016	19:21:32	INFO	Server wurde gestartet 
+04.17.2016	19:22:57	INFO	Server wurde gestartet 
+04.17.2016	19:22:57	INFO	Fehler: javax.websocket.DeploymentException: Address already in use: bind 
+04.17.2016	19:23:18	INFO	Server wurde gestartet 
+04.17.2016	19:27:18	INFO	Server wurde beendet 
+04.17.2016	19:27:24	INFO	Server wurde gestartet 
+04.17.2016	19:31:56	INFO	Server wurde gestartet 
+04.17.2016	19:33:30	INFO	Server wurde gestartet 
+04.17.2016	19:33:33	INFO	Server wurde beendet 
+04.17.2016	19:33:37	INFO	Server wurde gestartet 
+04.17.2016	19:34:57	INFO	Server wurde gestartet 
+04.17.2016	19:37:44	INFO	Server wurde beendet 
+04.17.2016	19:37:49	INFO	Server wurde gestartet 
+04.17.2016	19:40:03	INFO	Server wurde gestartet 
+04.17.2016	19:40:06	INFO	Server wurde beendet 
+04.17.2016	19:40:09	INFO	Server wurde gestartet 
+04.17.2016	19:41:18	INFO	Server wurde beendet 
+04.17.2016	19:41:22	INFO	Server wurde gestartet 
+04.17.2016	21:06:17	INFO	Server wurde gestartet 
+04.17.2016	21:07:11	INFO	Server wurde gestartet 
+04.17.2016	21:08:59	INFO	Server wurde gestartet 

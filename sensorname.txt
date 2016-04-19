@@ -1,0 +1,8 @@
+innentemperatur
+aussentemperatur
+heizung
+luftdruck
+tomatenbeet
+blumenbeet
+wasserstand
+nicht vorhanden

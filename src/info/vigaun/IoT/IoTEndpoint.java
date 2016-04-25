@@ -31,7 +31,7 @@ import org.json.simple.parser.ParseException;
     @ServerEndpoint("/chat")
 public class IoTEndpoint {
     
-     static int id = 6;
+     static int id = 100;
     /**
      * static session Variable für die anderen Klassen
      */
@@ -64,49 +64,32 @@ public class IoTEndpoint {
     @OnMessage
     public String onMessage(Session session,String message) throws ParseException, IOException, SQLException, ClassNotFoundException {
         
-        String ID = (String) session.getUserProperties().get("ID");
-        /**
-         * Wird bei der ersten Verbindung die ID gesetzt
-         * ID wird zur identifizierung der unterschiedlichen Sessions verwendet
-         * Wenn kein Attribut (uID) gesetzt ist, ID in Session als String eintragen
-         */
-        if(ID == null){
+
+
+            /**
+             * Erstellt die ID vom Client gesendet wird JSON
+             * wird für die Wiedererkennung verwendet
+             * @param c_id UserProperties in der Session
+             */
+             String c_id = Integer.toString(getID(message,"id"));
+             /**
+              * Hier wird die Eigenschaft ID in der Session erstellt
+              * @param ID ist der identifizierende Name des Controllers
+             */
+            session.getUserProperties().put("ID", c_id);
             /**
              * checkTyp zerlegt exrahiert den Telegrammtyp
              * typ 0: erste Verbindung
-             * typ 1: werte vom Controller empfangen
+             * typ 1: Werte vom Controller empfangen
+             * typ 2:Client verbindet sich
              * @param message kommt vom Controller
              * @param session aktuelle Session
              */
             checkTyp(session,message);
-            /**
-             * @param ID ist der identifizierende Name des Controllers
-             */
-            session.getUserProperties().put("ID", Integer.toString(id));
-            /**
-             * @deprecated nachstehenden zwei Methoden sind für den Chatserver
-             * werden hier nicht gebraucht
-             */
-            //session.getAsyncRemote().sendText("System: sie sind jetzt verbunden als: " + message);
-            //writeLog(buildString( "User " + message , " ist dem Server verbunden"));
-            /**
-             * sendet einen JSON String {"request":5} bedeutet Update alle Werte
-             */
-            session.getAsyncRemote().sendText(createJSON("5"));
-        }
-        else{
-            /**
-             * empfangene Nachricht wird decodiert und entsprechende Aktion ausgeführt
-             */
-            checkTyp(session, message);
-        }
-           
-        /*
-         * @deprecated
-         * sendet Echo zum Client
-        */
+ 
         return message;
     }
+    
    /**
     * Methode gibt Fehler des WebSocketServers aus
     * @param t  Fehlerobjekt welches geworfen wird
@@ -137,6 +120,43 @@ public class IoTEndpoint {
         System.out.println("Server: Connection closed...");
     }
     
+        
+    /**
+     * Die Methode entscheidet über den Telegrammtyp TYP: welche operationen ausgeführt werden
+     * typ 0: erste Verbindung; typ 1: eintrag in Datenbank; typ 2: holen aus Datenbank
+     * @param session aktuelle Session des Clients
+     * @param json Nachricht die vom Controller oder vom einem Client kommt
+     * @throws ParseException Fehler im JSON
+     * @throws IOException  Falscher Variablentyp
+     * @throws SQLException delegierter Fehler Datenbankeintrag
+     */
+    public void checkTyp(Session session, String json) throws ParseException, IOException, SQLException, ClassNotFoundException{
+        
+        int typ = getID(json,"typ");
+        
+        switch(typ){
+            
+            case 0:
+                decodeTyp0(json);
+                /**
+                 * erstes Fullupdate vom Controller
+                 */
+                session.getBasicRemote().sendText(createRequest("10"));
+                break;
+            case 1:
+                decodingJson(session,json);
+                break;
+            case 2:
+                database.getFromDataBase(getID(json,"group"));
+                break;
+            case 3:
+                getSensorValues(session,json);
+        }
+    }
+    
+    
+    
+    
     /**
      * Methode erzeugt einen request JSON String ({"request":value}
      * @param value Ganzzahl für das Update
@@ -145,7 +165,7 @@ public class IoTEndpoint {
      * true = offen; false geschlossen
      * @return JSON String
      */
-    private static String createJSON(String value){
+    private static String createRequest(String value){
         JSONObject obj = new JSONObject();
         obj.put("request", value);
         return obj.toString();
@@ -220,7 +240,7 @@ public class IoTEndpoint {
      */
     public static void sendAll(String message) throws IOException{
           for(Session client : sessions){
-              client.getBasicRemote().sendText(createJSON(message));
+              client.getBasicRemote().sendText(createRequest(message));
              }
     }
     
@@ -239,35 +259,7 @@ public class IoTEndpoint {
     int randomNum = rand.nextInt((5) + 1) + 1;
     session.getBasicRemote().sendText(Integer.toString(randomNum));
     }
-    
-    /**
-     * Die Methode entscheidet über den Telegrammtyp TYP: welche operationen ausgeführt werden
-     * typ 0: erste Verbindung; typ 1: eintrag in Datenbank; typ 2: holen aus Datenbank
-     * @param session aktuelle Session des Clients
-     * @param json Nachricht die vom Controller oder vom einem Client kommt
-     * @throws ParseException Fehler im JSON
-     * @throws IOException  Falscher Variablentyp
-     * @throws SQLException delegierter Fehler Datenbankeintrag
-     */
-    public void checkTyp(Session session, String json) throws ParseException, IOException, SQLException, ClassNotFoundException{
-        
-        int typ = getID(json,"typ");
-        
-        switch(typ){
-            
-            case 0:
-                decodeTyp0(json);
-                break;
-            case 1:
-                decodingJson(session,json);
-                break;
-            case 2:
-                database.getFromDataBase(getID(json,"group"));
-                break;
-            case 3:
-                getSensorValues(session,json);
-        }
-    }
+
     
     /**
      * Fordert vom Sensor ein Update an. Mittels Requestwert wird der zuständige Controller ausgewählt.
@@ -280,44 +272,61 @@ public class IoTEndpoint {
      */
     private void getSensorValues(Session session,String json) throws SQLException, ClassNotFoundException, ParseException, IOException{
         
-        for(Session client : sessions){
-            client.getAsyncRemote().sendText(createJSON(String.valueOf(getID(json,"request"))));
-            //client.getAsyncRemote().sendText(createJSON("4"));
-        }
-        session.getAsyncRemote().sendText(createJSON(database.getFromDataBase(getID(json,"request")))); 
-        
-//        switch (getID(json,"request")){
-//            case 1: 
-//            case 2:
-//            case 3:
-//            case 4:
-//                  for(Session client : sessions){
-//                    String id = (String)client.getUserProperties().get("ID");
-//                    System.out.println(id);
+//        for(Session client : sessions){
+//            client.getAsyncRemote().sendText(createJSON(String.valueOf(getID(json,"request"))));
+//            //client.getAsyncRemote().sendText(createJSON("4"));
+//        }
+        //session.getAsyncRemote().sendText(createJSON(database.getFromDataBase(getID(json,"request")))); 
+        switch (getID(json,"request")){
+            case 1: 
+            case 2:
+            case 3:
+            case 4:
+                  for(Session client : sessions){
 //                     if(id.equals("1")== true){
-//                      client.getAsyncRemote().sendText(createJSON(String.valueOf(getID(json,"request"))));
+                      client.getAsyncRemote().sendText(createRequest(Integer.toString(getID(json,"request"))));
+//                      break;
 //                     }
-//                    }
-//                  session.getAsyncRemote().sendText(createJSON(database.getFromDataBase(getID(json,"request"))));   
-//              break;
-//            case 5:
-//            case 6:
-//            case 7:
-//            case 8:
-//                  for(Session client : sessions){
-//                    String id = (String)client.getUserProperties().get("ID");
-//                                        System.out.println(id);
+                    }
+                  session.getAsyncRemote().sendText(database.getFromDataBase(getID(json,"request")));   
+             break;
+            case 5:
+            case 6:
+            case 7:
+            case 8:
+                  for(Session client : sessions){
+//                      String id = getControllerId(client);
 //                     if(id.equals("2")== true)
-//                      client.getAsyncRemote().sendText(String.valueOf(getID(json,"request")));
-//                    }
-//
-//                  session.getAsyncRemote().sendText(database.getFromDataBase(getID(json,"request")));
-//              break;
-//      } 
+                      client.getAsyncRemote().sendText(createRequest(Integer.toString(getID(json,"request"))));
+//                     break;
+                    }
+                  session.getAsyncRemote().sendText(database.getFromDataBase(getID(json,"request")));
+              break;
+              
+            case 10:
+                  for(Session client : sessions){
+//                    String id = getControllerId(client);
+//                    int intId = Integer.parseInt(id);
+//                    System.out.println(intId+"\n");
+//                      if(intId < 3)
+                      client.getAsyncRemote().sendText(createRequest(Integer.toString(getID(json,"request"))));
+      } 
+                  for(int i = 1; i<9;i++){
+                          session.getAsyncRemote().sendText(database.getFromDataBase(i));
+                      }
+     }
     }
     
-    
-    
+    /**
+     * Holt die ID des Controllers. Dient zum Identifizieren der Sesnoren
+     * @param client aktuelle Session
+     * @return ID des Controllers 
+     */
+    private static String getControllerId(Session client){
+        String id = "";
+        id = (String)client.getUserProperties().get("ID");
+        return id;
+    }
     
     /**
      * Fügt in die Datenbank Controllername, IP, Ort, Status und verfügbare Sensoren ein
@@ -327,22 +336,22 @@ public class IoTEndpoint {
      */
     public void decodeTyp0(String json) throws ParseException, SQLException, ClassNotFoundException{
             //Controller regisitrieren
-            id = getID(json,"id");
+            int c_id = getID(json,"id");
             String name = getName(json,"name");
             String ip = getName(json,"ip");
             String location =getName(json,"location");
-            database.insertController(id,name,ip,location);
+            database.insertController(c_id,name,ip,location);
             
             if(getID(json,"id") == 1){
                     //Sensoren des Controller 1 eintragen  
                      for(int i= 1;i<5;i++){
-                        database.insertGroups(getName(json,"sensor_"+i),id,i);
+                        database.insertGroups(getName(json,"sensor_"+i),c_id,i);
                    }
                 } 
             else{
                     //Sensoren des Controller 2 eintragen  
                      for(int i= 1;i<5;i++){
-                        database.insertGroups(getName(json,"sensor_"+i),id,i+4);
+                        database.insertGroups(getName(json,"sensor_"+i),c_id,i+4);
                    }
             }
 
